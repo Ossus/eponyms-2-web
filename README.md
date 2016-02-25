@@ -4,6 +4,11 @@ Eponyms 2 Web API Server
 A Python 3 Flask app serving the web API needed for the Eponyms 2 stack.
 
 
+## Configuration
+
+You can override any settings defined in `defaults.py` by creating a file `settings.py` and changing the variables there.
+
+
 ## Installation
 
 To develop or run the web app locally, it's best to use a virtual environment containing all necessary modules:
